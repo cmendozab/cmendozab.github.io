@@ -1,12 +1,7 @@
   body {
     margin: 40px;
   }
-  
-  .sidebar {
-    /* Define the grid area here */
-    grid-column: 1 / 2;
-  }
-  
+    
   .content {
     /* Define the grid area here */
     grid-column: 1 / 12;
