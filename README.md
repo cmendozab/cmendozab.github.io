@@ -12,6 +12,9 @@ During the previous six years, I have been collaborating in multiple research pr
 
 Recently, in the last 2 years I have focused my job activities in developing solutions using machine learning / deep learning methods to solve industrial problems. Some of the recent ML / DL projects I have collaborated on are: A computer application to analyze X-Ray images and to provide an indication when a given image presents COVID-19 patterns; Automatic people detection via IP cameras and distance calculation to ensure minimum safe distance in open and closed area environments; and a NLP sentiment analysis webapp.
 
+I am currently enrolled in several certifications, one of which is Full-Stack Web Development (MERN) from MIT xPro.
+
+
 # GitHub Webpage:
 > Check my GitHub Webpage for more information about projects and experience.
 
