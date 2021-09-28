@@ -14,13 +14,12 @@ Recently, in the last 2 years I have focused my job activities in developing sol
 
 I am currently enrolled in several certifications, one of which is Full-Stack Web Development (MERN) from MIT xPro. Below the full list of current certification enrollments:
 
-/*:
   - Full-Stack Web Development (MERN) from MIT xPro
   - Industrial Internet of Things, Theory and Applications from MIT Professional Education 
   - Postgraduate Program in AI and Machine Learning from Purdue University
   - Postgraduate Program in Cloud Computing from Caltech University
   - Agile Certified Practitioner from Duke University
- */
+
 
 
 # GitHub Webpage:
